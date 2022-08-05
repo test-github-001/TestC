@@ -43,3 +43,6 @@ class FinalWin(QWidget):
         self.setWindowTitle(txt_finalwin)
         self.resize(win_width, win_height)
         self.move(win_x, win_y)
+
+
+# end
